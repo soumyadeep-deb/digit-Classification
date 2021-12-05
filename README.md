@@ -20,3 +20,5 @@ The model can be tested on any test dataset, just make sure to transform your da
 1. Image size used: **28 x 28 x 1**
 2. Normalize pixel values
 3. Encode your output if you haven't (you can use to_categorical function)
+
+The Trained model has also been uploaded here as **model_v0.h5**
